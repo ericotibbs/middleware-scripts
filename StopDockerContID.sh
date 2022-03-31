@@ -28,5 +28,3 @@ do
 done
 
 echo -e "\nAll running Containers were successfully stopped.\n"
- 
-
