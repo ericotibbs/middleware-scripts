@@ -25,3 +25,4 @@ if [ $UID != 0 ]
 fi
 
 DeleteLogMessages
+# Schedule DeleteSystemLogs.sh with Crontab.
